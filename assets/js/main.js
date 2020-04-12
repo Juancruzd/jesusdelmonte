@@ -17,7 +17,7 @@
       document.getElementById('txtDate').innerHTML =strDate;  
       
       try{
-      fetch("http://api.openweathermap.org/data/2.5/weather?q=San Francisco del Rincón, México&APPID=57078d68e02f9ac6b3cc6db99a2d3ed2")
+      fetch("https://api.openweathermap.org/data/2.5/weather?q=San Francisco del Rincón, México&APPID=57078d68e02f9ac6b3cc6db99a2d3ed2")
         .then(response => {
            
             response.json().then(function(dato) {  
