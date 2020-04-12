@@ -34,12 +34,12 @@
             <link rel="stylesheet" href="assets/css/bootstrap.min.css">
             <link rel="stylesheet" href="assets/css/owl.carousel.min.css">
             <link rel="stylesheet" href="assets/css/ticker-style.css">
-            <link rel="stylesheet" href="assets/css/flaticon.css">
+            <!--<link rel="stylesheet" href="assets/css/flaticon.css">--> 
             <link rel="stylesheet" href="assets/css/slicknav.css">
             <link rel="stylesheet" href="assets/css/animate.min.css">
             <link rel="stylesheet" href="assets/css/magnific-popup.css">
-            <link rel="stylesheet" href="assets/css/fontawesome-all.min.css">
-            <link rel="stylesheet" href="assets/css/themify-icons.css">
+            <!--<link rel="stylesheet" href="assets/css/fontawesome-all.min.css">--> 
+            <link rel="stylesheet" href="assets/css/themify-icons.css"> 
             <link rel="stylesheet" href="assets/css/slick.css">
             <link rel="stylesheet" href="assets/css/nice-select.css">
             <link rel="stylesheet" href="assets/css/style.css"> 
@@ -50,7 +50,7 @@
    <body>
        
     <!-- Preloader Start -->
-    <div id="preloader-active">
+     <div id="preloader-active">
         <div class="preloader d-flex align-items-center justify-content-center">
             <div class="preloader-inner position-relative">
                 <div class="preloader-circle"></div>
@@ -1116,6 +1116,11 @@
 		<!-- Jquery Plugins, main Jquery -->	
         <script src="./assets/js/plugins.js"></script>
         <script src="./assets/js/main.js"></script> 
-        
+        <script> 
+                //<![CDATA[
+        document.cookie = 'same-site-cookie=foo; SameSite=Lax'; 
+        document.cookie = 'cross-site-cookie=bar; SameSite=None; Secure';
+        //]]>
+        </script>
     </body>
 </html>
