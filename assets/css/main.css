@@ -6917,7 +6917,7 @@ del {
 
 /* line 179, ../../SAIFUL/Running_project/248. Magazine & News/assets/scss/_elements.scss */
 .genric-btn.default-border:hover {
-  color: #415094;
+  color: #000;
   background: #f9f9ff;
   border: 1px solid transparent;
 }
