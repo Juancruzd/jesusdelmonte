@@ -72,7 +72,7 @@
     display: inline-block;
 }
 .instagram:hover{
-    background-image: url('../img/news/icon-ins.png');
+    background-image: url('../img/news/ico_instagramh.png');
     width: 20px;
     height: 20px; 
     background-size: 20px 20px;
@@ -90,7 +90,7 @@
     display: inline-block;
 }
 .facebook:hover{
-    background-image: url('../img/news/icon-fb.png');
+    background-image: url('../img/news/ico_facebookh.png');
     width: 20px;
     height: 20px; 
     background-size: 20px 20px;
@@ -108,7 +108,7 @@
     display: inline-block;
 }
 .youtube:hover{
-    background-image: url('../img/news/icon-yo.png');
+    background-image: url('../img/news/ico_youtubeh.png');
     width: 20px;
     height: 20px; 
     background-size: 20px 20px;
@@ -126,7 +126,7 @@
     display: inline-block;
 }
 .twitter:hover{
-    background-image: url('../img/news/icon-tw.png');
+    background-image: url('../img/news/ico_twitterh.png');
     width: 20px;
     height: 20px; 
     background-size: 20px 20px;
@@ -146,7 +146,7 @@
     margin-top: 10px;
 } 
 .enlace1:hover{
-    background-image: url(../img/footer/bienestar.png);
+    background-image: url(../img/footer/sfrh.png);
     height: 45px;
     background-size: 8rem 45px;
     background-repeat: no-repeat;
@@ -166,7 +166,7 @@
     margin-top: 10px;
 } 
 .enlace2:hover{
-    background-image: url(../img/footer/bienestar.png);
+    background-image: url(../img/footer/gobmxh.png);
     height: 45px;
     background-size: 8rem 45px;
     background-repeat: no-repeat;
@@ -186,7 +186,7 @@
     margin-top: 10px;
 } 
 .enlace3:hover{
-    background-image: url(../img/footer/bienestar.png);
+    background-image: url(../img/footer/ssh.png);
     height: 45px;
     background-size: 8rem 45px;
     background-repeat: no-repeat;
@@ -206,7 +206,7 @@
     margin-top: 10px;
 } 
 .enlace4:hover{
-    background-image: url(../img/footer/bienestar.png);
+    background-image: url(../img/footer/seph.png);
     height: 45px;
     background-size: 8rem 45px;
     background-repeat: no-repeat;
