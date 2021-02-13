@@ -621,8 +621,9 @@ section
     -webkit-transition-delay: 0.75s;
     -ms-transition-delay: 0.75s;
     transition-delay: 0.75s;
-    pointer-events: none;
-    background-color: rgb(0 0 0 / 94%);
+	pointer-events: none;
+	background-color: rgb(0 0 0 / 94%);
+    /*background-color: rgb(0 0 0 / 94%);*/
     content: '';
     display: block;
     height: 100%;
